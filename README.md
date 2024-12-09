@@ -63,7 +63,7 @@
 ## Примечания
 
 -   Датасет был взят c [Kaggle](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
--   Графики нарочито были
+-   Графики нарочито были сделаны нерепрезентативными
 
 ## Лицензия
 
